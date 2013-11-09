@@ -9,11 +9,11 @@ cCompileC Build/Intermediates/HackAThon.build/Debug-iphonesimulator/HackAThon.bu
 cCompileC Build/Intermediates/HackAThon.build/Debug-iphonesimulator/HackAThon.build/Objects-normal/i386/main.o /Users/chriswoolfe/Documents/HackAThon/HackAThon/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app/HackAThon normal i386
 cGenerateDSYMFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app.dSYM /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app/HackAThon
+cCompileXIB /Users/chriswoolfe/Documents/HackAThon/google-api-objectivec-client-read-only/Source/OAuth2/Touch/GTMOAuth2ViewTouch.xib
 cCompileStoryboard /Users/chriswoolfe/Documents/HackAThon/HackAThon/Base.lproj/Main_iPad.storyboard
 cCompileStoryboard /Users/chriswoolfe/Documents/HackAThon/HackAThon/Base.lproj/Main_iPhone.storyboard
 cCopyStringsFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app/en.lproj/InfoPlist.strings HackAThon/en.lproj/InfoPlist.strings
 cCompileAssetCatalog /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app /Users/chriswoolfe/Documents/HackAThon/HackAThon/Images.xcassets
-cCompileXIB /Users/chriswoolfe/Documents/HackAThon/google-api-objectivec-client-read-only/Source/OAuth2/Touch/GTMOAuth2ViewTouch.xib
 cProcessInfoPlistFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app/Info.plist /Users/chriswoolfe/Documents/HackAThon/HackAThon/HackAThon-Info.plist
 cTouch /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app
 
@@ -483,7 +483,7 @@ t1384016836
 s340
 
 N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app.dSYM
-t1384015412
+t1384016834
 s102
 
 N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app/Base.lproj/Main_iPad.storyboardc
@@ -1218,7 +1218,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies11e1a342a32eb841^d140ac42a32eb841^---0#1#1#--18"Check dependencies36"0FCEA9A1-2A23-49CF-A373-F371276BE555-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6ff43d6fa32eb841^f2273e6fa32eb841^---0#1#1#--18"Check dependencies36"9E238A23-AC22-4D57-89AE-F4B4465A2834-
 
 CCompileAssetCatalog /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/HackAThon.app /Users/chriswoolfe/Documents/HackAThon/HackAThon/Images.xcassets
 r0

@@ -1,0 +1,357 @@
+TGoogDriveTest
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.pch GoogDriveTest/GoogDriveTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest normal i386
+cGenerateDSYMFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest
+cCopyStringsFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/en.lproj/InfoPlist.strings GoogDriveTest/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Images.xcassets
+cProcessInfoPlistFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Info.plist /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Info.plist
+cTouch /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app
+
+N/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005209A11B0000000000000176
+t1376362779
+s374
+
+N/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005212E48500000000000003B5
+t1376969861
+s949
+
+N/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005212E4C600000000000001A0
+t1376969926
+s416
+
+N/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005212E4DA000000000020C080
+t1376969946
+s2146432
+
+N/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005212E4DE00000000004248F0
+t1376969950
+s4344048
+
+N/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005212E4EF0000000000E70C20
+t1376969967
+s15141920
+
+N/Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000520BBA6F0000000000000A48
+t1376500335
+s2632
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m
+c00000000527E6D3500000000000007DF
+t1384017205
+s2015
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Base.lproj/Main.storyboard
+c00000000527E6D350000000000000630
+t1384017205
+s1584
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Info.plist
+c00000000527E6D3500000000000004C0
+t1384017205
+s1216
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Prefix.pch
+c00000000527E6D350000000000000158
+t1384017205
+s344
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Images.xcassets
+c00000000527E6D350000000000000088
+t1384017205
+s136
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m
+c00000000527E6D3500000000000001F5
+t1384017205
+s501
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/en.lproj/InfoPlist.strings
+c00000000527E6D35000000000000002D
+t1384017205
+s45
+
+N/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m
+c00000000527E6D350000000000000159
+t1384017205
+s345
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o
+t1384017216
+s65324
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/GoogDriveTest.LinkFileList
+c00000000527E6D3F00000000000001CD
+t1384017215
+s461
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o
+t1384017216
+s41104
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o
+t1384017216
+s3716
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/assetcatalog_dependencies.txt
+t1384017217
+s398
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/assetcatalog_generated_info.plist
+t1384017217
+s525
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.pch
+t1384017215
+s114432
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app
+t1384017217
+s306
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM
+t2
+s0
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Base.lproj/Main.storyboardc
+t1384017216
+s170
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest
+t1384017216
+s37564
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Info.plist
+t1384017217
+s1022
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/PkgInfo
+t1384017217
+s8
+
+N/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/en.lproj/InfoPlist.strings
+t1384017216
+s42
+
+CBuild AST from /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m
+r0
+
+CBuild AST from /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m
+r0
+
+CBuild AST from /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2ecbe7bfa42eb841^1c08f5bfa42eb841^---0#1#1#--18"Check dependencies36"5060167B-9EBE-46AC-AAED-0EA2CEA94B53-
+
+CCompileAssetCatalog /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Images.xcassets
+s405710016.161755
+e405710017.308240
+r1
+xCompileAssetCatalog
+x/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app
+x/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/LaunchImage-700-568h@2x.png
+o/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Assets.car
+o/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"CompileAssetCatalog /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app GoogDriveTest/Images.xcassets143"CompileAssetCatalog /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app GoogDriveTest/Images.xcassetsc97729c0a42eb841^d1e84ec1a42eb841^-426"/* com.apple.actool.compilation-results *//Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/LaunchImage-700-568h@2x.png/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Assets.car/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Images.xcassets/0000000000000000^1276"CompileAssetCatalog /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app GoogDriveTest/Images.xcassets    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Images.xcassets36"E018E603-5D92-4A43-9F47-EC45F9C2C696-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CCompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405710016.008952
+e405710016.087231
+r1
+xCompileC
+x/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o
+x/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m
+d/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m259"CompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o GoogDriveTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0f6302c0a42eb841^3b5516c0a42eb841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m0000000000000000^3916"CompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o GoogDriveTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/chriswoolfe/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-generated-files.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-own-target-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-all-target-headers.hmap -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-project-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources/i386 -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources -F/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator -include /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch -MMD -MT dependencies -MF /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.m -o /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o36"7B7B337D-771D-4184-B531-512D13EDA416-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CCompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405710016.008955
+e405710016.070446
+r1
+xCompileC
+x/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o
+x/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m
+d/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m265"CompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o GoogDriveTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler676202c0a42eb841^780912c0a42eb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m0000000000000000^3934"CompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o GoogDriveTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/chriswoolfe/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-generated-files.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-own-target-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-all-target-headers.hmap -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-project-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources/i386 -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources -F/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator -include /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch -MMD -MT dependencies -MF /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.dia -c /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/ViewController.m -o /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o36"FD8E3C84-340D-4591-BD77-097E755FE3D1-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CCompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405710016.008978
+e405710016.063457
+r1
+xCompileC
+x/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o
+x/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m
+d/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m245"CompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o GoogDriveTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraa6202c0a42eb841^2d3f10c0a42eb841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m0000000000000000^3874"CompileC /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o GoogDriveTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/chriswoolfe/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-generated-files.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-own-target-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-all-target-headers.hmap -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-project-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources/i386 -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources -F/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator -include /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch -MMD -MT dependencies -MF /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.dia -c /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/main.m -o /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o36"682A5FA2-D018-489C-89D5-FDF3ABD1086F-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CCompileStoryboard /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Base.lproj/Main.storyboard
+s405710016.161737
+e405710016.286137
+r1
+xCompileStoryboard
+x/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard GoogDriveTest/Base.lproj/Main.storyboard58"CompileStoryboard GoogDriveTest/Base.lproj/Main.storyboarde67829c0a42eb841^244449c0a42eb841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Base.lproj/Main.storyboard0000000000000000^913"CompileStoryboard GoogDriveTest/Base.lproj/Main.storyboard    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode5-DP6.app/Contents/Developer/usr/bin/..    /Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Base.lproj/Main.storyboardc /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/Base.lproj/Main.storyboard36"513C5187-A05C-4E7C-B5F2-B08FB9E69689-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CCopyStringsFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/en.lproj/InfoPlist.strings GoogDriveTest/en.lproj/InfoPlist.strings
+s405710016.161726
+e405710016.168974
+r1
+xCopyStringsFile
+x/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/en.lproj/InfoPlist.strings
+xGoogDriveTest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy GoogDriveTest/en.lproj/InfoPlist.strings177"CopyStringsFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/en.lproj/InfoPlist.strings GoogDriveTest/en.lproj/InfoPlist.stringsd17929c0a42eb841^9a422bc0a42eb841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/en.lproj/InfoPlist.strings0000000000000000^684"CopyStringsFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/en.lproj/InfoPlist.strings GoogDriveTest/en.lproj/InfoPlist.strings    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/en.lproj -- GoogDriveTest/en.lproj/InfoPlist.strings36"9CCF17E2-D59A-45DE-8F50-D73FA6830B64-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CGenerateDSYMFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest
+s405710016.135415
+e405710016.153668
+r1
+xGenerateDSYMFile
+x/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM
+x/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Generate /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM223"GenerateDSYMFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest78b722c0a42eb841^e65727c0a42eb841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM0038a803deffdf42^808"GenerateDSYMFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest -o /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app.dSYM36"F956FF4D-86A5-41B3-A7AE-2981EE953AA8-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CLd /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest normal i386
+s405710016.095836
+e405710016.127033
+r1
+xLd
+x/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest
+xnormal
+xi386
+d/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/GoogDriveTest.LinkFileList
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/ViewController.o
+d/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/AppDelegate.o
+d/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/main.o
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest122"Ld /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest normal i386189918c0a42eb841^388620c0a42eb841^---0#0#1#--1526"Ld /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest normal i386    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator -F/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator -filelist /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/GoogDriveTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/Objects-normal/i386/GoogDriveTest_dependency_info.dat -o /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/GoogDriveTest36"56AEDAA8-074B-4AA3-86B7-E99EC711ADA5-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CProcessInfoPlistFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Info.plist /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Info.plist
+s405710017.316128
+e405710017.323728
+r1
+xProcessInfoPlistFile
+x/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Info.plist
+x/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Process /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Info.plist164"ProcessInfoPlistFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Info.plist GoogDriveTest/GoogDriveTest-Info.plist2afd50c1a42eb841^6ee052c1a42eb841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Info.plist0000000000000000^1021"ProcessInfoPlistFile /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Info.plist GoogDriveTest/GoogDriveTest-Info.plist    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Info.plist -genpkginfo /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/assetcatalog_generated_info.plist -o /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app/Info.plist36"BAA3D38B-1091-494D-B5E4-E51F37C5E9D4-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CProcessPCH /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.pch GoogDriveTest/GoogDriveTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405710015.960563
+e405710016.000941
+r1
+xProcessPCH
+x/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.pch
+xGoogDriveTest/GoogDriveTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile GoogDriveTest/GoogDriveTest-Prefix.pch274"ProcessPCH /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.pch GoogDriveTest/GoogDriveTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler26fdf5bfa42eb841^de3d00c0a42eb841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Prefix.pch0000000000000000^3789"ProcessPCH /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.pch GoogDriveTest/GoogDriveTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP6.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/chriswoolfe/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode5-DP6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-generated-files.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-own-target-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-all-target-headers.hmap -iquote /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/GoogDriveTest-project-headers.hmap -I/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode5-DP6.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources/i386 -I/Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/GoogDriveTest.build/Debug-iphonesimulator/GoogDriveTest.build/DerivedSources -F/Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.d -c /Users/chriswoolfe/Documents/GoogDriveProj/GoogDriveTest/GoogDriveTest/GoogDriveTest-Prefix.pch -o /Users/chriswoolfe/Documents/HackAThon/Build/Intermediates/PrecompiledHeaders/GoogDriveTest-Prefix-fklflznkwlcqokflgzzwjcluzrjv/GoogDriveTest-Prefix.pch.pch36"46A9F40A-0994-44FC-8B0F-33980D09E5E1-
+bF652954C-126B-4BAF-85F5-1785E0C96E4A
+
+CProcessPCH /Users/chriswoolfe/Library/Developer/Xcode/DerivedData/FringeWorkspace-ccqctrvxlptiaqctadbvkwmefrvz/Index/PrecompiledHeaders/GoogDriveTest-Prefix-dxjpwylsrabpfofrfuquqcgyixem_ast/GoogDriveTest-Prefix.pch.pch GoogDriveTest/GoogDriveTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/chriswoolfe/Documents/HackAThon/Build/Products/Debug-iphonesimulator/GoogDriveTest.app
+r0
+
