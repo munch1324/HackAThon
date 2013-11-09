@@ -22,6 +22,12 @@
 		C4E7132B182E737C0099B845 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4E7130A182E737B0099B845 /* UIKit.framework */; };
 		C4E71333182E737C0099B845 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C4E71331182E737C0099B845 /* InfoPlist.strings */; };
 		C4E71335182E737C0099B845 /* HackAThonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E71334182E737C0099B845 /* HackAThonTests.m */; };
+		E74303E4182E9DA500607D97 /* libGTLTouchStaticLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E74303E3182E9DA500607D97 /* libGTLTouchStaticLib.a */; };
+		E74303E6182E9DC500607D97 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E74303E5182E9DC500607D97 /* Security.framework */; };
+		E74303E8182E9DCD00607D97 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E74303E7182E9DCD00607D97 /* MobileCoreServices.framework */; };
+		E74303EA182EA02A00607D97 /* GTMOAuth2ViewTouch.xib in Resources */ = {isa = PBXBuildFile; fileRef = E74303E9182EA02A00607D97 /* GTMOAuth2ViewTouch.xib */; };
+		E74303ED182EA30000607D97 /* GTLDrive_Sources.m in Sources */ = {isa = PBXBuildFile; fileRef = E74303EB182EA30000607D97 /* GTLDrive_Sources.m */; };
+		E74303EF182EA34000607D97 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E74303EE182EA34000607D97 /* SystemConfiguration.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +61,14 @@
 		C4E71330182E737C0099B845 /* HackAThonTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HackAThonTests-Info.plist"; sourceTree = "<group>"; };
 		C4E71332182E737C0099B845 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C4E71334182E737C0099B845 /* HackAThonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HackAThonTests.m; sourceTree = "<group>"; };
+		E74303E1182E9D8B00607D97 /* libGTLTouchStaticLib.a */ = {isa = PBXFileReference; lastKnownFileType = file; name = libGTLTouchStaticLib.a; path = "google-api-objectivec-client-read-only/Source/build/Debug-iphoneos/libGTLTouchStaticLib.a"; sourceTree = "<group>"; };
+		E74303E3182E9DA500607D97 /* libGTLTouchStaticLib.a */ = {isa = PBXFileReference; lastKnownFileType = file; name = libGTLTouchStaticLib.a; path = "google-api-objectivec-client-read-only/Source/build/Debug-iphoneos/libGTLTouchStaticLib.a"; sourceTree = "<group>"; };
+		E74303E5182E9DC500607D97 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		E74303E7182E9DCD00607D97 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		E74303E9182EA02A00607D97 /* GTMOAuth2ViewTouch.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = GTMOAuth2ViewTouch.xib; path = "google-api-objectivec-client-read-only/Source/OAuth2/Touch/GTMOAuth2ViewTouch.xib"; sourceTree = SOURCE_ROOT; };
+		E74303EB182EA30000607D97 /* GTLDrive_Sources.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GTLDrive_Sources.m; path = "google-api-objectivec-client-read-only/Source/Services/Drive/Generated/GTLDrive_Sources.m"; sourceTree = "<group>"; };
+		E74303EC182EA30000607D97 /* GTLDrive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GTLDrive.h; path = "google-api-objectivec-client-read-only/Source/Services/Drive/Generated/GTLDrive.h"; sourceTree = "<group>"; };
+		E74303EE182EA34000607D97 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +76,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E74303EF182EA34000607D97 /* SystemConfiguration.framework in Frameworks */,
+				E74303E8182E9DCD00607D97 /* MobileCoreServices.framework in Frameworks */,
+				E74303E6182E9DC500607D97 /* Security.framework in Frameworks */,
+				E74303E4182E9DA500607D97 /* libGTLTouchStaticLib.a in Frameworks */,
 				C4E71309182E737B0099B845 /* CoreGraphics.framework in Frameworks */,
 				C4E7130B182E737B0099B845 /* UIKit.framework in Frameworks */,
 				C4E71307182E737B0099B845 /* Foundation.framework in Frameworks */,
@@ -84,6 +102,8 @@
 		C4E712FA182E737B0099B845 = {
 			isa = PBXGroup;
 			children = (
+				E74303EB182EA30000607D97 /* GTLDrive_Sources.m */,
+				E74303EC182EA30000607D97 /* GTLDrive.h */,
 				C4E7130C182E737B0099B845 /* HackAThon */,
 				C4E7132E182E737C0099B845 /* HackAThonTests */,
 				C4E71305182E737B0099B845 /* Frameworks */,
@@ -103,6 +123,11 @@
 		C4E71305182E737B0099B845 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E74303EE182EA34000607D97 /* SystemConfiguration.framework */,
+				E74303E7182E9DCD00607D97 /* MobileCoreServices.framework */,
+				E74303E5182E9DC500607D97 /* Security.framework */,
+				E74303E3182E9DA500607D97 /* libGTLTouchStaticLib.a */,
+				E74303E1182E9D8B00607D97 /* libGTLTouchStaticLib.a */,
 				C4E71306182E737B0099B845 /* Foundation.framework */,
 				C4E71308182E737B0099B845 /* CoreGraphics.framework */,
 				C4E7130A182E737B0099B845 /* UIKit.framework */,
@@ -129,6 +154,7 @@
 		C4E7130D182E737B0099B845 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E74303E9182EA02A00607D97 /* GTMOAuth2ViewTouch.xib */,
 				C4E7130E182E737B0099B845 /* HackAThon-Info.plist */,
 				C4E7130F182E737B0099B845 /* InfoPlist.strings */,
 				C4E71312182E737B0099B845 /* main.m */,
@@ -231,6 +257,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E74303EA182EA02A00607D97 /* GTMOAuth2ViewTouch.xib in Resources */,
 				C4E7131D182E737C0099B845 /* Main_iPad.storyboard in Resources */,
 				C4E71322182E737C0099B845 /* Images.xcassets in Resources */,
 				C4E7131A182E737B0099B845 /* Main_iPhone.storyboard in Resources */,
@@ -254,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4E71320182E737C0099B845 /* ViewController.m in Sources */,
+				E74303ED182EA30000607D97 /* GTLDrive_Sources.m in Sources */,
 				C4E71317182E737B0099B845 /* AppDelegate.m in Sources */,
 				C4E71313182E737B0099B845 /* main.m in Sources */,
 			);
@@ -395,7 +423,12 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HackAThon/HackAThon-Prefix.pch";
 				INFOPLIST_FILE = "HackAThon/HackAThon-Info.plist";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "google-api-objectivec-client-read-only/Source/**";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -408,7 +441,12 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HackAThon/HackAThon-Prefix.pch";
 				INFOPLIST_FILE = "HackAThon/HackAThon-Info.plist";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-all_load",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "google-api-objectivec-client-read-only/Source/**";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -474,6 +512,7 @@
 				C4E7133A182E737C0099B845 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C4E7133B182E737C0099B845 /* Build configuration list for PBXNativeTarget "HackAThonTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +521,7 @@
 				C4E7133D182E737C0099B845 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
