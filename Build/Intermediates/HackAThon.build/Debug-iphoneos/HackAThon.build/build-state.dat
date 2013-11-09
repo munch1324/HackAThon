@@ -1,0 +1,431 @@
+THackAThon
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist
+cProcessPCH /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.pch HackAThon/HackAThon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon normal armv7
+cCompileStoryboard /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/en.lproj/InfoPlist.strings HackAThon/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Images.xcassets
+cProcessInfoPlistFile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Info.plist /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Info.plist
+cGenerateDSYMFile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app.dSYM /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon
+cProcessProductPackaging /Users/kitaemyoung/Library/MobileDevice/Provisioning\ Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision
+cTouch /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent
+cCodeSign /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c000000005267C8C40000000000000110
+t1382533316
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000524207580000000000000094
+t1380058968
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000524207580000000000000096
+t1380058968
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052420758000000000000036B
+t1380058968
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267C86400000000000001A0
+t1382533220
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005267C86500000000004D63C0
+t1382533221
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005267C8660000000000A92BC0
+t1382533222
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005267C86B00000000025A5AC0
+t1382533227
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000524207860000000000000AC9
+t1380059014
+s2761
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent
+t1384004868
+s400
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o
+t1384004866
+s64552
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/HackAThon.LinkFileList
+c00000000527E3D0100000000000001C7
+t1384004865
+s455
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o
+t1384004866
+s41156
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o
+t1384004866
+s3792
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/assetcatalog_dependencies.txt
+t1384004868
+s397
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/assetcatalog_generated_info.plist
+t1384004868
+s525
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.pch
+t1384004866
+s80268
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app
+t1384004868
+s374
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app.dSYM
+t2
+s0
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Base.lproj/Main_iPad.storyboardc
+t1384004867
+s170
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Base.lproj/Main_iPhone.storyboardc
+t1384004868
+s306
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon
+t1384004867
+s53872
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Info.plist
+t1384004868
+s1557
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/PkgInfo
+t1384004868
+s8
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist
+t1384004865
+s150
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision
+t1384004868
+s14044
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/en.lproj/InfoPlist.strings
+t1384004867
+s42
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m
+c00000000527E3BFB00000000000007D4
+t1384004603
+s2004
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPad.storyboard
+c00000000527E3BFB0000000000000644
+t1384004603
+s1604
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPhone.storyboard
+c00000000527E3CFF000000000000186E
+t1384004863
+s6254
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Info.plist
+c00000000527E3BFB000000000000062B
+t1384004603
+s1579
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Prefix.pch
+c00000000527E3BFB0000000000000158
+t1384004603
+s344
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Images.xcassets
+c00000000527E3BFC0000000000000088
+t1384004604
+s136
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m
+c00000000527E3BFC00000000000001EA
+t1384004604
+s490
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/en.lproj/InfoPlist.strings
+c00000000527E3BFB000000000000002D
+t1384004603
+s45
+
+N/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m
+c00000000527E3BFB000000000000014E
+t1384004603
+s334
+
+N/Users/kitaemyoung/Library/MobileDevice/Provisioning Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision
+c0000000052681D2100000000000036DC
+t1382554913
+s14044
+
+CBuild AST from /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m
+r0
+
+CBuild AST from /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m
+r0
+
+CBuild AST from /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6d022481742eb841^18cf3881742eb841^---0#1#1#--18"Check dependencies36"5000E2A9-5422-4BD1-A26D-EA1525BDFCAC-
+
+CCodeSign /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app
+s405697668.673318
+e405697668.892688
+r1
+xCodeSign
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"CodeSign Build/Products/Debug-iphoneos/HackAThon.app52"CodeSign Build/Products/Debug-iphoneos/HackAThon.appeca4b284742eb841^db87e484742eb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/0000000000000000^1057"CodeSign Build/Products/Debug-iphoneos/HackAThon.app    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Michael Grande (375Z54C57N)" and provisioning profile "iOS Team Provisioning Profile: *" (45481853-E260-4F36-AEE2-A10F3279F524)    codesign --force --sign D91D7D1DDA493BE0E55DC856767474AF7BEF74FD --resource-rules=/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist --entitlements /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app36"9C2F5833-498C-41F5-8B62-32FBD9589434-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCompileAssetCatalog /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Images.xcassets
+s405697667.425128
+e405697668.317752
+r1
+xCompileAssetCatalog
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/LaunchImage-700-568h@2x.png
+o/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Assets.car
+o/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"CompileAssetCatalog Build/Products/Debug-iphoneos/HackAThon.app HackAThon/Images.xcassets89"CompileAssetCatalog Build/Products/Debug-iphoneos/HackAThon.app HackAThon/Images.xcassets60e96c83742eb841^43585184742eb841^-425"/* com.apple.actool.compilation-results *//Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/LaunchImage-700-568h@2x.png/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Assets.car/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@84"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Images.xcassets/0000000000000000^1148"CompileAssetCatalog Build/Products/Debug-iphoneos/HackAThon.app HackAThon/Images.xcassets    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Images.xcassets36"ED8469D9-9134-4D22-850C-BC5AB2CDCB74-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405697666.536856
+e405697666.643113
+r1
+xCompileC
+xBuild/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m203"CompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o HackAThon/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b848982742eb841^dfa9a482742eb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m0000000000000000^3696"CompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o HackAThon/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kitaemyoung/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-generated-files.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-own-target-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-all-target-headers.hmap -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-project-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources/armv7 -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources -F/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos -include /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch -MMD -MT dependencies -MF /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.dia -c /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o36"AD0A0957-D6A5-4DDA-AE3D-1208C4F72F59-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405697666.536600
+e405697666.645243
+r1
+xCompileC
+xBuild/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m209"CompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o HackAThon/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler08758982742eb841^2730a582742eb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m0000000000000000^3714"CompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o HackAThon/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kitaemyoung/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-generated-files.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-own-target-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-all-target-headers.hmap -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-project-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources/armv7 -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources -F/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos -include /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch -MMD -MT dependencies -MF /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.dia -c /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/ViewController.m -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o36"C04A2E88-600C-4D7A-9ED1-3A8A40C3F1CB-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405697666.537027
+e405697666.654611
+r1
+xCompileC
+xBuild/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m189"CompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o HackAThon/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c9c8982742eb841^cc97a782742eb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m0000000000000000^3654"CompileC Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o HackAThon/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kitaemyoung/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-generated-files.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-own-target-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-all-target-headers.hmap -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-project-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources/armv7 -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources -F/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos -include /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch -MMD -MT dependencies -MF /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.dia -c /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/main.m -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o36"414F4926-FB90-433D-A3BE-9734BCEBC990-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCompileStoryboard /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPad.storyboard
+s405697667.424544
+e405697667.747112
+r1
+xCompileStoryboard
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard HackAThon/Base.lproj/Main_iPad.storyboard59"CompileStoryboard HackAThon/Base.lproj/Main_iPad.storyboardf4bf6c83742eb841^3945bf83742eb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPad.storyboard0000000000000000^837"CompileStoryboard HackAThon/Base.lproj/Main_iPad.storyboard    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Base.lproj/Main_iPad.storyboardc /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPad.storyboard36"42CA1C50-BF4F-4D49-BE03-27956F86FAB8-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCompileStoryboard /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPhone.storyboard
+s405697667.424650
+e405697668.422274
+r1
+xCompileStoryboard
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard HackAThon/Base.lproj/Main_iPhone.storyboard61"CompileStoryboard HackAThon/Base.lproj/Main_iPhone.storyboard98c16c83742eb841^cd1fa784742eb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPhone.storyboard0000000000000000^843"CompileStoryboard HackAThon/Base.lproj/Main_iPhone.storyboard    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Base.lproj/Main_iPhone.storyboardc /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/Base.lproj/Main_iPhone.storyboard36"FBE769CC-AD12-4CD4-A134-22E40FE08683-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCopyStringsFile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/en.lproj/InfoPlist.strings HackAThon/en.lproj/InfoPlist.strings
+s405697667.424769
+e405697667.427939
+r1
+xCopyStringsFile
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/en.lproj/InfoPlist.strings
+xHackAThon/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy HackAThon/en.lproj/InfoPlist.strings123"CopyStringsFile Build/Products/Debug-iphoneos/HackAThon.app/en.lproj/InfoPlist.strings HackAThon/en.lproj/InfoPlist.strings7dcb6c83742eb841^08906d83742eb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/en.lproj/InfoPlist.strings0000000000000000^604"CopyStringsFile Build/Products/Debug-iphoneos/HackAThon.app/en.lproj/InfoPlist.strings HackAThon/en.lproj/InfoPlist.strings    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/en.lproj -- HackAThon/en.lproj/InfoPlist.strings36"C7A3A0E8-1F8F-421D-B9C6-5BD268CEB385-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist
+s405697665.247441
+e405697665.250737
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist196"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist226d3f81742eb841^a1304081742eb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist0034acd9dcffdf42^772"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app36"6D5B9148-AF05-485E-AE14-9A0E20BBC0B8-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CGenerateDSYMFile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app.dSYM /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon
+s405697668.462064
+e405697668.506393
+r1
+xGenerateDSYMFile
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app.dSYM
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app.dSYM119"GenerateDSYMFile Build/Products/Debug-iphoneos/HackAThon.app.dSYM Build/Products/Debug-iphoneos/HackAThon.app/HackAThon04567684742eb841^2c29a784742eb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app.dSYM0034acd9dcffdf42^674"GenerateDSYMFile Build/Products/Debug-iphoneos/HackAThon.app.dSYM Build/Products/Debug-iphoneos/HackAThon.app/HackAThon    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app.dSYM36"FAA1AD01-3EEF-4A94-9D83-7130930436AA-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CLd /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon normal armv7
+s405697666.655266
+e405697667.423912
+r1
+xLd
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon
+xnormal
+xarmv7
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/HackAThon.LinkFileList
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/ViewController.o
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/AppDelegate.o
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon69"Ld Build/Products/Debug-iphoneos/HackAThon.app/HackAThon normal armv742cea782742eb841^6a866c83742eb841^---0#0#1#--1362"Ld Build/Products/Debug-iphoneos/HackAThon.app/HackAThon normal armv7    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos -F/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos -filelist /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/HackAThon.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/Objects-normal/armv7/HackAThon_dependency_info.dat -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/HackAThon36"6DD2D4A9-0C37-49E2-9F62-291DDAA6E57A-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CProcessInfoPlistFile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Info.plist /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Info.plist
+s405697668.422707
+e405697668.461651
+r1
+xProcessInfoPlistFile
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Info.plist
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Process /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Info.plist106"ProcessInfoPlistFile Build/Products/Debug-iphoneos/HackAThon.app/Info.plist HackAThon/HackAThon-Info.plisted456c84742eb841^b325a784742eb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Info.plist0000000000000000^1052"ProcessInfoPlistFile Build/Products/Debug-iphoneos/HackAThon.app/Info.plist HackAThon/HackAThon-Info.plist    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Info.plist -genpkginfo /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/ResourceRules.plist -additionalcontentfile /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/assetcatalog_generated_info.plist -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/Info.plist36"0AE17F5E-5471-4CB4-B97F-8607099BFB65-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CProcessPCH /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.pch HackAThon/HackAThon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405697665.251411
+e405697666.533732
+r1
+xProcessPCH
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.pch
+xHackAThon/HackAThon-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile HackAThon/HackAThon-Prefix.pch220"ProcessPCH Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.pch HackAThon/HackAThon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd734081742eb841^e3a48882742eb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Prefix.pch0000000000000000^3581"ProcessPCH Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.pch HackAThon/HackAThon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/kitaemyoung/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-generated-files.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-own-target-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-all-target-headers.hmap -iquote /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon-project-headers.hmap -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources/armv7 -I/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/DerivedSources -F/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.dia -MMD -MT dependencies -MF /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.d -c /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/HackAThon-Prefix.pch -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/PrecompiledHeaders/HackAThon-Prefix-bqbcxcqsuzeovaencqezayhotvsw/HackAThon-Prefix.pch.pch36"7759247E-4CF5-4CE2-8354-00EB8CDDC201-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CProcessPCH /Users/kitaemyoung/Library/Developer/Xcode/DerivedData/HackAThon-dgquiepfaxfhfbhhrmnnnmtijelt/Index/PrecompiledHeaders/HackAThon-Prefix-alrgxlpuravasuasqzywzlepdqfl_ast/HackAThon-Prefix.pch.pch HackAThon/HackAThon-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent
+s405697668.510667
+e405697668.672957
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection227"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent227"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent75c78284742eb841^6ff1c484742eb841^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent0034acd9dcffdf42^794"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Intermediates/HackAThon.build/Debug-iphoneos/HackAThon.build/HackAThon.xcent36"47A3B812-9A78-422E-B87E-1B6D521449EF-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CProcessProductPackaging /Users/kitaemyoung/Library/MobileDevice/Provisioning\ Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision
+s405697668.506752
+e405697668.509892
+r1
+xProcessProductPackaging
+x/Users/kitaemyoung/Library/MobileDevice/Provisioning Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision
+x/Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection208"ProcessProductPackaging /Users/kitaemyoung/Library/MobileDevice/Provisioning\ Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision208"ProcessProductPackaging /Users/kitaemyoung/Library/MobileDevice/Provisioning\ Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovisiondac88184742eb841^882ba784742eb841^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision0034acd9dcffdf42^730"ProcessProductPackaging /Users/kitaemyoung/Library/MobileDevice/Provisioning\ Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision    cd /Users/kitaemyoung/Development/Hackathon/HackAThon    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/kitaemyoung/Library/MobileDevice/Provisioning\ Profiles/45481853-E260-4F36-AEE2-A10F3279F524.mobileprovision -o /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app/embedded.mobileprovision36"A24451E4-F5AF-49C8-A165-36BE055FC681-
+bAD2A631A-8D3F-4593-9DC3-CFDBCCFFA052
+
+CTouch /Users/kitaemyoung/Development/Hackathon/HackAThon/Build/Products/Debug-iphoneos/HackAThon.app
+r0
+

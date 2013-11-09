@@ -1,0 +1,489 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C4E71307182E737B0099B845 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4E71306182E737B0099B845 /* Foundation.framework */; };
+		C4E71309182E737B0099B845 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4E71308182E737B0099B845 /* CoreGraphics.framework */; };
+		C4E7130B182E737B0099B845 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4E7130A182E737B0099B845 /* UIKit.framework */; };
+		C4E71311182E737B0099B845 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C4E7130F182E737B0099B845 /* InfoPlist.strings */; };
+		C4E71313182E737B0099B845 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E71312182E737B0099B845 /* main.m */; };
+		C4E71317182E737B0099B845 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E71316182E737B0099B845 /* AppDelegate.m */; };
+		C4E7131A182E737B0099B845 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4E71318182E737B0099B845 /* Main_iPhone.storyboard */; };
+		C4E7131D182E737C0099B845 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4E7131B182E737C0099B845 /* Main_iPad.storyboard */; };
+		C4E71320182E737C0099B845 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E7131F182E737C0099B845 /* ViewController.m */; };
+		C4E71322182E737C0099B845 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4E71321182E737C0099B845 /* Images.xcassets */; };
+		C4E71329182E737C0099B845 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4E71328182E737C0099B845 /* XCTest.framework */; };
+		C4E7132A182E737C0099B845 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4E71306182E737B0099B845 /* Foundation.framework */; };
+		C4E7132B182E737C0099B845 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4E7130A182E737B0099B845 /* UIKit.framework */; };
+		C4E71333182E737C0099B845 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C4E71331182E737C0099B845 /* InfoPlist.strings */; };
+		C4E71335182E737C0099B845 /* HackAThonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C4E71334182E737C0099B845 /* HackAThonTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C4E7132C182E737C0099B845 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C4E712FB182E737B0099B845 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C4E71302182E737B0099B845;
+			remoteInfo = HackAThon;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C4E71303182E737B0099B845 /* HackAThon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackAThon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4E71306182E737B0099B845 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C4E71308182E737B0099B845 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C4E7130A182E737B0099B845 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C4E7130E182E737B0099B845 /* HackAThon-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HackAThon-Info.plist"; sourceTree = "<group>"; };
+		C4E71310182E737B0099B845 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C4E71312182E737B0099B845 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C4E71314182E737B0099B845 /* HackAThon-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HackAThon-Prefix.pch"; sourceTree = "<group>"; };
+		C4E71315182E737B0099B845 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C4E71316182E737B0099B845 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C4E71319182E737B0099B845 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
+		C4E7131C182E737C0099B845 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
+		C4E7131E182E737C0099B845 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C4E7131F182E737C0099B845 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C4E71321182E737C0099B845 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		C4E71327182E737C0099B845 /* HackAThonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackAThonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C4E71328182E737C0099B845 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		C4E71330182E737C0099B845 /* HackAThonTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HackAThonTests-Info.plist"; sourceTree = "<group>"; };
+		C4E71332182E737C0099B845 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C4E71334182E737C0099B845 /* HackAThonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HackAThonTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C4E71300182E737B0099B845 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4E71309182E737B0099B845 /* CoreGraphics.framework in Frameworks */,
+				C4E7130B182E737B0099B845 /* UIKit.framework in Frameworks */,
+				C4E71307182E737B0099B845 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C4E71324182E737C0099B845 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4E71329182E737C0099B845 /* XCTest.framework in Frameworks */,
+				C4E7132B182E737C0099B845 /* UIKit.framework in Frameworks */,
+				C4E7132A182E737C0099B845 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C4E712FA182E737B0099B845 = {
+			isa = PBXGroup;
+			children = (
+				C4E7130C182E737B0099B845 /* HackAThon */,
+				C4E7132E182E737C0099B845 /* HackAThonTests */,
+				C4E71305182E737B0099B845 /* Frameworks */,
+				C4E71304182E737B0099B845 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C4E71304182E737B0099B845 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C4E71303182E737B0099B845 /* HackAThon.app */,
+				C4E71327182E737C0099B845 /* HackAThonTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C4E71305182E737B0099B845 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C4E71306182E737B0099B845 /* Foundation.framework */,
+				C4E71308182E737B0099B845 /* CoreGraphics.framework */,
+				C4E7130A182E737B0099B845 /* UIKit.framework */,
+				C4E71328182E737C0099B845 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C4E7130C182E737B0099B845 /* HackAThon */ = {
+			isa = PBXGroup;
+			children = (
+				C4E71315182E737B0099B845 /* AppDelegate.h */,
+				C4E71316182E737B0099B845 /* AppDelegate.m */,
+				C4E71318182E737B0099B845 /* Main_iPhone.storyboard */,
+				C4E7131B182E737C0099B845 /* Main_iPad.storyboard */,
+				C4E7131E182E737C0099B845 /* ViewController.h */,
+				C4E7131F182E737C0099B845 /* ViewController.m */,
+				C4E71321182E737C0099B845 /* Images.xcassets */,
+				C4E7130D182E737B0099B845 /* Supporting Files */,
+			);
+			path = HackAThon;
+			sourceTree = "<group>";
+		};
+		C4E7130D182E737B0099B845 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C4E7130E182E737B0099B845 /* HackAThon-Info.plist */,
+				C4E7130F182E737B0099B845 /* InfoPlist.strings */,
+				C4E71312182E737B0099B845 /* main.m */,
+				C4E71314182E737B0099B845 /* HackAThon-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C4E7132E182E737C0099B845 /* HackAThonTests */ = {
+			isa = PBXGroup;
+			children = (
+				C4E71334182E737C0099B845 /* HackAThonTests.m */,
+				C4E7132F182E737C0099B845 /* Supporting Files */,
+			);
+			path = HackAThonTests;
+			sourceTree = "<group>";
+		};
+		C4E7132F182E737C0099B845 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C4E71330182E737C0099B845 /* HackAThonTests-Info.plist */,
+				C4E71331182E737C0099B845 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C4E71302182E737B0099B845 /* HackAThon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C4E71338182E737C0099B845 /* Build configuration list for PBXNativeTarget "HackAThon" */;
+			buildPhases = (
+				C4E712FF182E737B0099B845 /* Sources */,
+				C4E71300182E737B0099B845 /* Frameworks */,
+				C4E71301182E737B0099B845 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HackAThon;
+			productName = HackAThon;
+			productReference = C4E71303182E737B0099B845 /* HackAThon.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C4E71326182E737C0099B845 /* HackAThonTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C4E7133B182E737C0099B845 /* Build configuration list for PBXNativeTarget "HackAThonTests" */;
+			buildPhases = (
+				C4E71323182E737C0099B845 /* Sources */,
+				C4E71324182E737C0099B845 /* Frameworks */,
+				C4E71325182E737C0099B845 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C4E7132D182E737C0099B845 /* PBXTargetDependency */,
+			);
+			name = HackAThonTests;
+			productName = HackAThonTests;
+			productReference = C4E71327182E737C0099B845 /* HackAThonTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C4E712FB182E737B0099B845 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = NCR;
+				TargetAttributes = {
+					C4E71326182E737C0099B845 = {
+						TestTargetID = C4E71302182E737B0099B845;
+					};
+				};
+			};
+			buildConfigurationList = C4E712FE182E737B0099B845 /* Build configuration list for PBXProject "HackAThon" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C4E712FA182E737B0099B845;
+			productRefGroup = C4E71304182E737B0099B845 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C4E71302182E737B0099B845 /* HackAThon */,
+				C4E71326182E737C0099B845 /* HackAThonTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C4E71301182E737B0099B845 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4E7131D182E737C0099B845 /* Main_iPad.storyboard in Resources */,
+				C4E71322182E737C0099B845 /* Images.xcassets in Resources */,
+				C4E7131A182E737B0099B845 /* Main_iPhone.storyboard in Resources */,
+				C4E71311182E737B0099B845 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C4E71325182E737C0099B845 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4E71333182E737C0099B845 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C4E712FF182E737B0099B845 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4E71320182E737C0099B845 /* ViewController.m in Sources */,
+				C4E71317182E737B0099B845 /* AppDelegate.m in Sources */,
+				C4E71313182E737B0099B845 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C4E71323182E737C0099B845 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4E71335182E737C0099B845 /* HackAThonTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C4E7132D182E737C0099B845 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C4E71302182E737B0099B845 /* HackAThon */;
+			targetProxy = C4E7132C182E737C0099B845 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C4E7130F182E737B0099B845 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4E71310182E737B0099B845 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C4E71318182E737B0099B845 /* Main_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4E71319182E737B0099B845 /* Base */,
+			);
+			name = Main_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		C4E7131B182E737C0099B845 /* Main_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4E7131C182E737C0099B845 /* Base */,
+			);
+			name = Main_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		C4E71331182E737C0099B845 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C4E71332182E737C0099B845 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C4E71336182E737C0099B845 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C4E71337182E737C0099B845 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C4E71339182E737C0099B845 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HackAThon/HackAThon-Prefix.pch";
+				INFOPLIST_FILE = "HackAThon/HackAThon-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C4E7133A182E737C0099B845 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HackAThon/HackAThon-Prefix.pch";
+				INFOPLIST_FILE = "HackAThon/HackAThon-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C4E7133C182E737C0099B845 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/HackAThon.app/HackAThon";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HackAThon/HackAThon-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "HackAThonTests/HackAThonTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		C4E7133D182E737C0099B845 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/HackAThon.app/HackAThon";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HackAThon/HackAThon-Prefix.pch";
+				INFOPLIST_FILE = "HackAThonTests/HackAThonTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C4E712FE182E737B0099B845 /* Build configuration list for PBXProject "HackAThon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4E71336182E737C0099B845 /* Debug */,
+				C4E71337182E737C0099B845 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C4E71338182E737C0099B845 /* Build configuration list for PBXNativeTarget "HackAThon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4E71339182E737C0099B845 /* Debug */,
+				C4E7133A182E737C0099B845 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		C4E7133B182E737C0099B845 /* Build configuration list for PBXNativeTarget "HackAThonTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4E7133C182E737C0099B845 /* Debug */,
+				C4E7133D182E737C0099B845 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C4E712FB182E737B0099B845 /* Project object */;
+}
