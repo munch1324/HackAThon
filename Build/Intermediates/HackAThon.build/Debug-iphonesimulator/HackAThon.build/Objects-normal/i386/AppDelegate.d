@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.m \
-  /Users/kitaemyoung/Development/Hackathon/HackAThon/HackAThon/AppDelegate.h
+  /Users/chriswoolfe/Documents/HackAThon/HackAThon/AppDelegate.m \
+  /Users/chriswoolfe/Documents/HackAThon/HackAThon/AppDelegate.h

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/368/trunk/Source/Services/DoubleClickBidManager/Generated
+END
+GTLDoubleClickBidManagerListReportsResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerListReportsResponse.h
+END
+GTLQueryDoubleClickBidManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLQueryDoubleClickBidManager.m
+END
+GTLDoubleClickBidManagerConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerConstants.h
+END
+GTLDoubleClickBidManagerUploadLineItemsResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerUploadLineItemsResponse.h
+END
+GTLDoubleClickBidManagerListReportsResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerListReportsResponse.m
+END
+GTLDoubleClickBidManagerReportStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportStatus.h
+END
+GTLDoubleClickBidManagerConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerConstants.m
+END
+GTLDoubleClickBidManagerUploadLineItemsResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerUploadLineItemsResponse.m
+END
+GTLDoubleClickBidManagerReportFailure.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportFailure.h
+END
+GTLDoubleClickBidManagerReportStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportStatus.m
+END
+GTLDoubleClickBidManager_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManager_Sources.m
+END
+GTLDoubleClickBidManagerReportFailure.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportFailure.m
+END
+GTLDoubleClickBidManagerFilterPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerFilterPair.h
+END
+GTLDoubleClickBidManagerParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerParameters.h
+END
+GTLDoubleClickBidManagerQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerQuery.h
+END
+GTLDoubleClickBidManagerFilterPair.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerFilterPair.m
+END
+GTLDoubleClickBidManagerQueryMetadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerQueryMetadata.h
+END
+GTLDoubleClickBidManagerParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerParameters.m
+END
+GTLDoubleClickBidManagerQuery.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerQuery.m
+END
+GTLDoubleClickBidManagerRowStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/368/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerRowStatus.h
+END
+GTLDoubleClickBidManagerReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReport.h
+END
+GTLDoubleClickBidManagerQueryMetadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerQueryMetadata.m
+END
+GTLDoubleClickBidManagerReportMetadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportMetadata.h
+END
+GTLDoubleClickBidManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManager.h
+END
+GTLDoubleClickBidManagerReport.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReport.m
+END
+GTLDoubleClickBidManagerRowStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerRowStatus.m
+END
+GTLDoubleClickBidManagerReportMetadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportMetadata.m
+END
+GTLDoubleClickBidManagerQuerySchedule.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/368/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerQuerySchedule.h
+END
+GTLDoubleClickBidManagerReportKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportKey.h
+END
+GTLDoubleClickBidManagerQuerySchedule.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/368/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerQuerySchedule.m
+END
+GTLDoubleClickBidManagerUploadStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerUploadStatus.h
+END
+GTLDoubleClickBidManagerListQueriesResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerListQueriesResponse.h
+END
+GTLDoubleClickBidManagerReportKey.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerReportKey.m
+END
+GTLDoubleClickBidManagerListQueriesResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerListQueriesResponse.m
+END
+GTLDoubleClickBidManagerUploadStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerUploadStatus.m
+END
+GTLServiceDoubleClickBidManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLServiceDoubleClickBidManager.h
+END
+GTLDoubleClickBidManagerDownloadLineItemsResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/368/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerDownloadLineItemsResponse.h
+END
+GTLDoubleClickBidManagerDownloadLineItemsResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLDoubleClickBidManagerDownloadLineItemsResponse.m
+END
+GTLQueryDoubleClickBidManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/368/trunk/Source/Services/DoubleClickBidManager/Generated/GTLQueryDoubleClickBidManager.h
+END
+GTLServiceDoubleClickBidManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/366/trunk/Source/Services/DoubleClickBidManager/Generated/GTLServiceDoubleClickBidManager.m
+END
